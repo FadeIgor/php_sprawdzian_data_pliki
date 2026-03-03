@@ -1,0 +1,1 @@
+# php_sprawdzian_data_pliki
